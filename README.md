@@ -65,7 +65,6 @@ Assurez-vous d'avoir Python installé, puis utilisez pip pour installer les bibl
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
-```
 
 ### Étape 3 : Lancer le notebook
 Ouvrez le fichier `Carvalho_Romain_1_Notebook_Analyse_012025.ipynb` dans Jupyter Notebook ou un autre IDE compatible.
@@ -87,6 +86,13 @@ python app.py
   - `margin_low` : Marge inférieure.
   - `margin_up` : Marge supérieure.
 
+---
+
+## 💡 **Tips et bonnes pratiques**
+
+1. **Nettoyage des données** : Identifiez et corrigez les valeurs manquantes ou aberrantes avant d'entraîner un modèle.
+2. **Comparaison des modèles** : Toujours tester plusieurs algorithmes pour choisir celui qui convient le mieux à vos données.
+3. **Documentation** : Gardez des traces claires de vos choix et méthodes pour faciliter la reproduction et l'amélioration du projet.
 
 ---
 
@@ -94,9 +100,9 @@ python app.py
 - [Documentation Scikit-learn](https://scikit-learn.org/stable/)
 - [Mon portfolio](https://romaincarvalho.com)
 
+---
+
 ## 👤 **Auteur**
-[Carvalho Romain]  
-[Romaincrvlh@gmail.com]  
+Carvalho Romain  
+[Romaincrvlh@gmail.com](mailto:Romaincrvlh@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/romain-carvalho-551605206/?originalSubdomain=fr)
-# detection.des.faux.billets
- 
